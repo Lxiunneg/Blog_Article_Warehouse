@@ -378,7 +378,7 @@ requests是一个更强大的库，整合了urllib的方法。不同再像urllib
     print(r.text)
    ```
 
-### POSt 请求
+### POST 请求
 
 1. 基本实例  
    ```python
