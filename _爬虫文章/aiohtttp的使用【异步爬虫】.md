@@ -19,6 +19,8 @@ categories:
 
 ## aiohttp概述
 
+博客源地址：[修能的博客](https://helloxiunneg.com.cn/2023/07/20/aiohtttp%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%90%E5%BC%82%E6%AD%A5%E7%88%AC%E8%99%AB%E3%80%91/#more)
+
 `asyncio`模块，其内部实现了对`TCP`、`UDP`和`SSL`协议的异步操作支持，但是对于`http`的请求就只能用`aiohttp`库了。
 
 `aiohttp`是基于`asyncio`的异步`http`网络模块，它即提供了服务端，同时也提供了客户端。  
